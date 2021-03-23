@@ -9,3 +9,4 @@ Archivos (breve explciacione):
  - creacion_tabla_otus: a partir de la tabla samples-reads of OTU y el diccionario de OTUs creamos la tabla final de samples-reads
  - creacion_metadata: filtramos algunas samples de las que no tenemos metadatos y quitamos algunas columnas innecesarias de los metedatos
  - FeatureSelectionNutrients: script para ver la correlacion de las variabels e intentar quitar alguna variable para eliminar variables redundantes
+ - CodigosColumnasMetadatos.xlsx: todas las columnas de lso metadatos con codigos de colores con informacion adicional (texto a la derecha)
